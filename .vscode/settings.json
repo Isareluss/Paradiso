@@ -1,5 +1,6 @@
 {
 	"workbench.editorAssociations": {
-		"*.dmi": "dmiEditor.dmiEditor"
+		"*.dmi": "dmiEditor.dmiEditor",
+		"*.dmb": "default"
 	}
 }
